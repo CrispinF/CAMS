@@ -1,2 +1,2 @@
 # CAMS
-CAMS, CAMS Web, CAMS Mobile
+CAMS Web
